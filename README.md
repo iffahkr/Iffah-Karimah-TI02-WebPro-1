@@ -9,4 +9,5 @@ Latihan dan Praktikum Pemrograman Web 1
 - Praktikum 6
 - Praktikum 7
 - Praktikum 8
+- Praktikum 9
 - Final Project Landing Page Fitness
